@@ -554,6 +554,7 @@ namespace sc2 {
         RESEARCH_CHITINOUSPLATING = 265,   // Target: None.
         RESEARCH_COMBATSHIELD = 731,   // Target: None.
         RESEARCH_CONCUSSIVESHELLS = 732,   // Target: None.
+        RESEARCH_CYCLONELOCKONDAMAGE = 769,
         RESEARCH_DRILLINGCLAWS = 764,   // Target: None.
         RESEARCH_ENHANCEDMUNITIONS = 806,   // Target: None.
         RESEARCH_EXTENDEDTHERMALLANCE = 1097,  // Target: None.
